@@ -15,4 +15,7 @@ Feature: BlueSky Form Test
     And I enter email address
     And I enter password
     And I click on the radio button
+    And I click on event
+    And I enter events in
+    And I enter keyword
     Then I close my window
